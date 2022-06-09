@@ -4,6 +4,7 @@ Black Friday Examined
 With the holiday season fast approaching, I found it intriguing to examine a dataset revolving around a hypothetical store and data of its shoppers. As described by the author, "The dataset is comprised of 550,000 observations about Black Friday shoppers in a retail store, it contains different kinds of variables either numerical or categorical. It contains missing values." (Mehdi Dagdoug)
 
 The more info and the supplemental dataset can be found at: https://www.kaggle.com/mehdidag/black-friday
+And my kaggle note book can be found on https://www.kaggle.com/code/ankushofficial/black-friday-eda/edit
 
 Although this EDA + Apriori only utilized the provided dataset; similar techniques can be applied to any similar dataset or business problem.
 
